@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adventures with a .NET Core Web API app published on a Kubernetes cluster in Azure Container Service using a SQL Server vNEXT instance in a container!"
+title:  "Running a .NET Core Web API and SQL Server on Linux in a Kubernetes cluster with Azure Container Service"
 date:   2017-06-28 23:48:29
 categories: posts
 ---
