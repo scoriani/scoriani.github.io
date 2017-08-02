@@ -9,7 +9,7 @@ Goal of this document is to highlight some of the relevant steps required to run
 
 ### First step: Deploy Azure Container Service Kubernetes cluster
 
-Not much more to add on this topic that hasn't been covered in official documentation, specifically an [introduction to ACS and Kubernetes deployment topology] (https://docs.microsoft.com/en-us/azure/container-service/kubernetes/container-service-intro-kubernetes) and a [step by step walkthrough] (https://docs.microsoft.com/en-us/azure/container-service/kubernetes/container-service-kubernetes-walkthrough) which i used to setup the cluster i'm using in remaining steps of this document.
+Not much more to add on this topic that hasn't been covered in official documentation, specifically an [introduction to ACS and Kubernetes deployment topology](https://docs.microsoft.com/en-us/azure/container-service/kubernetes/container-service-intro-kubernetes) and a [step by step walkthrough](https://docs.microsoft.com/en-us/azure/container-service/kubernetes/container-service-kubernetes-walkthrough) which i used to setup the cluster i'm using in remaining steps of this document.
  
 ### First step: Deploy Azure Container Service Kubernetes cluster
 
