@@ -1,7 +1,7 @@
 # Site settings
-title: scoriani - random thoughts on modern systems in the cloud!
+title: scoriani - random thoughts on modern data systems in the cloud!
 email: scoriani@microsoft.com
-description: "A learning whiteboard where sketching some ideas around new technologies and experience in distributed computing."
+description: "A learning whiteboard where sketching some ideas around new technologies and experience in distributed data and computing."
 baseurl: ""
 url: "https://scoriani.github.io"
 twitter_username: scoriani
